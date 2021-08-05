@@ -6,6 +6,6 @@ It stems from this google sheet we use to track what stuff our adventure group h
 CRUD: A party has characters (added manually or via API above) and items. Items can be associated to characters, but are a subset of the party.
 ### APIs:
 APIs: D&DBeyond Character API (for pulling character data) and Auth0 (for log in/authentication)
-D&D Beyond Character Service:  https://character-service.dndbeyond.com/character/v3/character/{CharacterId}
-Auth0: React and Django APIs: https://manage.auth0.com/
+D&D Beyond Character Service:  [D&DBeyond](https://character-service.dndbeyond.com/character/v3/character/{CharacterId})
+Auth0: React and Django APIs: [auth0](https://manage.auth0.com/)
 
